@@ -14,4 +14,12 @@
 <p>6. Хлебные крошки запрограммировать.</p>
 <br><i>Под звездочкой*</i><br>
 <p>7. Запрограммировать форму на главной (через компонент Битрикс)</p>
+<br><br><br>
+По итогу работы сделать бэкап (вместе с базой) и отправить на почту.
+<br><br><br>
+# Дополнительно
+<br>Ссылка на api: https://dev.1c-bitrix.ru/api_help/index.php
+<br>Ссылка на тесты Битрикса: https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=34&TEST_LIST=Y
+<br>Видео курс Битрикса: https://academy.1c-bitrix.ru/training/course/
+
 
