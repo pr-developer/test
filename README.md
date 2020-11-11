@@ -16,8 +16,8 @@
 <p>По итогу работы сделать бэкап (вместе с базой) и отправить на почту.</p>
 
 # Дополнительно
-<br>Ссылка на api: https://dev.1c-bitrix.ru/api_help/index.php
-<br>Ссылка на тесты Битрикса: https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=34&TEST_LIST=Y
-<br>Видео курс Битрикса: https://academy.1c-bitrix.ru/training/course/
+Ссылка на api: https://dev.1c-bitrix.ru/api_help/index.php
+Ссылка на тесты Битрикса: https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=34&TEST_LIST=Y
+Видео курс Битрикса: https://academy.1c-bitrix.ru/training/course/
 
 
