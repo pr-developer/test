@@ -1,5 +1,3 @@
-# Тестовое задание
-
 <p>Необходимые файлы лежат в ./dist</p>
 <p>https://pr-test.vercel.app/</p>
 <p>https://pr-test.vercel.app/records.html</p>
